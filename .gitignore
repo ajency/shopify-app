@@ -1,0 +1,7 @@
+node_modules/
+.vscode/
+config/config.json
+.env
+.DS_Store
+downloads/
+config/hyper-beta-private.pem

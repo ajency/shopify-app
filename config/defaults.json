@@ -1,0 +1,10 @@
+{
+  "development": {
+    "appTokenExpiry": 43200,
+    "webTokenExpiry": 1440
+  },
+  "production": {
+    "appTokenExpiry": 43200,
+    "webTokenExpiry": 1440
+  }
+}
